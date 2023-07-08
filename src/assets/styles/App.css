@@ -109,7 +109,7 @@ footer strong {
   margin-top: 200px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 767px) {
   .sectiontitle {
     padding: 20px;
   }
